@@ -1,11 +1,14 @@
 {
   "files": {
-    "main.js": "/repositorio-react-49890/static/js/main.85f67403.js",
+    "main.css": "/repositorio-react-49890/static/css/main.a587212f.css",
+    "main.js": "/repositorio-react-49890/static/js/main.2ab3dad9.js",
     "static/media/carrito.png": "/repositorio-react-49890/static/media/carrito.564d1190b4c207d34b50.png",
     "index.html": "/repositorio-react-49890/index.html",
-    "main.85f67403.js.map": "/repositorio-react-49890/static/js/main.85f67403.js.map"
+    "main.a587212f.css.map": "/repositorio-react-49890/static/css/main.a587212f.css.map",
+    "main.2ab3dad9.js.map": "/repositorio-react-49890/static/js/main.2ab3dad9.js.map"
   },
   "entrypoints": [
-    "static/js/main.85f67403.js"
+    "static/css/main.a587212f.css",
+    "static/js/main.2ab3dad9.js"
   ]
 }
